@@ -8,8 +8,6 @@
   ------  -------
   ---------------  A REMOTE WITH ONE BUTTON */
 
-
-
 public class SimpleRemoteControl {
   Command cmd;
   public SimpleRemoteControl() {}
